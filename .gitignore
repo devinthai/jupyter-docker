@@ -1,0 +1,5 @@
+# keep the repository for jupyter docker separate from notebooks
+notebook/
+
+# however I need it to keep the notebooks directory for the container build process
+!notebooks/.gitkeep
