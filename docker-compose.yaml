@@ -1,0 +1,9 @@
+services:
+  jupyter:
+    build: .
+    ports:
+      - "8888:8888"
+    volumes:
+      - type: bind
+        source: ./notebooks
+        target: /usr/local/app/notebooks
