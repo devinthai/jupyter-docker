@@ -1,0 +1,5 @@
+pandas
+pytesseract
+sqlalchemy
+opencv-python
+numpy
