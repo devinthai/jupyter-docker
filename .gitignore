@@ -3,3 +3,5 @@ notebooks/
 
 # however I need it to keep the notebooks directory for the container build process
 !notebooks/.gitkeep
+
+.DS_Store
