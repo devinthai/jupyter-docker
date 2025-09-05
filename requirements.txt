@@ -1,5 +1,7 @@
 pandas
 pytesseract
+easyocr
 sqlalchemy
 opencv-python
 numpy
+matplotlib
