@@ -5,3 +5,11 @@ sqlalchemy
 opencv-python
 numpy
 matplotlib
+transformers
+torch
+torchvision
+torchaudio
+transformers
+accelerate
+pillow
+bitsandbytes
